@@ -5,6 +5,9 @@ https://www.hackerrank.com/challenges/30-arrays/problem
 Sample Input
 
 4
+
+
+
 1 4 3 2
 
 
